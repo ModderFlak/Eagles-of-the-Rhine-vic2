@@ -1,0 +1,6 @@
+name = "Eagles of the Rhine: Napoleon III's Legacy"
+path = "mod/Eagles of the Rhine"
+user_dir = "Eagles of the Rhine"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"
